@@ -6,6 +6,7 @@ body{
     font-size: 50px;
     font-family:     Georgia,  sans-serif;  
     text-align: center;
+    margin: 5px;
 }
 .sketch-board{
     width: 600px;
@@ -26,13 +27,13 @@ body{
 .options{
     display: flex;
     justify-content: center;
-    margin: 20px;
+    margin: 10px;
 }
 .btn-nbr-squares{
     height: 40px;
     background-color: #fff;
     border: 1px solid #000;
-    border-radius: 10px;
+    border-radius: 5px;
     cursor: pointer;
     padding: 8px;
 }
